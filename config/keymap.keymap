@@ -84,7 +84,7 @@
         layer_0 {
             bindings = <
 &none  &none        &none        &none           &none         &none                                         &none            &none         &none            &none        &none                 &none
-&none  &kp Q        &kp W        &lt 0 E         &kp R         &kp T                                         &kp Y            &kp U         &lt 0 I          &kp O        &kp P                 &none
+&none  &kp Q        &kp W        &lt 7 E         &kp R         &kp T                                         &kp Y            &kp U         &lt 7 I          &kp O        &kp P                 &none
 &none  &kp A        &mt LCTRL S  &mt LEFT_ALT D  &mt LSHIFT F  &kp G        &none           &none            &kp H            &mt RSHIFT J  &mt RIGHT_ALT K  &mt RCTRL L  &lt 3 SLASH           &none
 &none  &mt LCTRL Z  &mt LWIN X   &kp C           &kp V         &kp B        &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp N            &kp M         &kp COMMA        &kp DOT      &mt RIGHT_SHIFT FSLH  &none
 &none  &none        &none        &none           &mkp MB1      &lt 1 SPACE  &lt 5 TAB       &lt 5 ENTER      &lt 2 BACKSPACE  &none         &none            &none        &none                 &none
